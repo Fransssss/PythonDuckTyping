@@ -1,5 +1,11 @@
 # Author: Fransiskus Agapa
 
+# ======================
+# simple program where a person choose to get and use a vehicle
+# the program would ask if the person is an adult or not
+# there is limit for either the person is an adult of not
+# ======================
+
 from classes import Car
 from classes import Bicycle
 from classes import Adult
